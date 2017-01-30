@@ -5,9 +5,9 @@ Frequently Asked Questions you should ask yourself before asking them again.
 
 ### Before you ask for a meeting
 1. Google your problem, in English. Keep it simple and gradually add search terms.
-  * If you have a compile error/waring message, google it directly.
+  * If you have a compile error/warning message, google it directly (possibly with quotes).
   
-2. Post your problem on [StackOverflow](https://stackoverflow.com/) and interact with it's unkind users.
+2. Post your problem on [StackOverflow](https://stackoverflow.com/) and interact with its unkind users.
 
 3. Updates the software that gives you troubles to the latest version (unless otherwise noted).
 
