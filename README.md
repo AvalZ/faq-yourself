@@ -4,9 +4,10 @@ Frequently Asked Questions you should ask yourself before asking them again.
 ## Instructions
 
 ### Before studying computer science / information technology
-1. Buy a computer (we suggest you to install a [SSD](https://en.wikipedia.org/wiki/Solid-state_drive)).
+1. Buy a computer;
+  * with a [SSD](https://en.wikipedia.org/wiki/Solid-state_drive) please.
 2. Learn English (intermediate level);
-3. Use Google [efficiently](http://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html);
+3. Google [is your friend](http://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html);
 
 
 ### Before you ask for a meeting
@@ -23,11 +24,21 @@ Frequently Asked Questions you should ask yourself before asking them again.
 5. Ask on various dedicated [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel
   * How to use IRC? Google it.
   * How to find an IRC channel? Google it. (e.g. "android irc channel")
+  
+### When everything above fails
+1. Gather all failed attempts in a small page (txt, rtf, md, etc... not .docx):  for each attempt, you should describe
+ * What you searched for
+ * What you found and tried
+ * What was the error message when it failed
+
+2. Write an email, but don't just ask "can I have a meeting?", state your problem via mail. A proper email should contain:
+  1. Context (e.g. "I'm dealing with Section X of Project Y...", if needed add description of your environment)
+  2. Problem (e.g. "While trying technique/tool/etc., X went wrong") with error description
+  3. The "failed attempts report" above
+
+3. If the problem can't be solved via email, you will be asked for a live or online meeting.
 
 ### Just before a meeting
-1. Write an email specifying your problem and what has been done to solve it;
-  * You can simply link your StackOverflow question
+1. Make sure your environment works and you can reproduce the problem.
 
-2. Make sure your environment works and you can reproduce the problem.
-
-3. [Optional] If your PC it's slow, turn it on!
+2. [Optional] If it's slow, turn on your PC
