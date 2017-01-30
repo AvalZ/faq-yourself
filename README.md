@@ -21,7 +21,7 @@ Frequently Asked Questions you should ask yourself before asking them again.
 4. Post your problem on various dedicated forums.
   * To find a forum use Google (e.g. "android forum")
   
-5. Ask on various dedicated[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel
+5. Ask on various dedicated [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channel
   * How to use IRC? Google it.
   * How to find an IRC channel? Google it. (e.g. "android irc channel")
 
