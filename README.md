@@ -4,10 +4,9 @@ Frequently Asked Questions you should ask yourself before asking them again.
 ## Instructions
 
 ### Before studying computer science / information technology
-1. Buy a computer;
-  * with a [SSD](https://en.wikipedia.org/wiki/Solid-state_drive) please.
+1. Buy a computer (we suggest you to install a [SSD](https://en.wikipedia.org/wiki/Solid-state_drive)).
 2. Learn English (intermediate level);
-3. Google [is your friend](http://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html);
+3. Use Google [efficiently](http://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html);
 
 
 ### Before you ask for a meeting
@@ -26,6 +25,9 @@ Frequently Asked Questions you should ask yourself before asking them again.
   * How to find an IRC channel? Google it. (e.g. "android irc channel")
 
 ### Just before a meeting
-1. Make sure your environment works and you can reproduce the problem.
+1. Write an email specifying your problem and what has been done to solve it;
+  * You can simply link your StackOverflow question
 
-2. [Optional] If it's slow, turn on your PC
+2. Make sure your environment works and you can reproduce the problem.
+
+3. [Optional] If your PC it's slow, turn it on!
