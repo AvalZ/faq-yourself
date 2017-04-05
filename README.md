@@ -32,9 +32,10 @@ Frequently Asked Questions you should ask yourself before asking them again.
  * What was the error message when it failed
 
 2. Write an email, but don't just ask "can I have a meeting?", state your problem via mail. A proper email should contain:
-  1. Context (e.g. "I'm dealing with Section X of Project Y...", if needed add description of your environment)
-  2. Problem (e.g. "While trying technique/tool/etc., X went wrong") with error description
-  3. The "failed attempts report" above
+
+ 1. Context (e.g. "I'm dealing with Section X of Project Y...", if needed add description of your environment)
+ 2. Problem (e.g. "While trying technique/tool/etc., X went wrong") with error description
+ 3. The "failed attempts report" above
 
 3. If the problem can't be solved via email, you will be asked for a live or online meeting.
 
