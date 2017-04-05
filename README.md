@@ -1,11 +1,12 @@
 # FAQ Yourself
 Frequently Asked Questions you should ask yourself before asking them again.
 
+
 ## Instructions
 
 ### Before studying computer science / information technology
 1. Buy a computer (we suggest you to install a [SSD](https://en.wikipedia.org/wiki/Solid-state_drive)).
-2. Learn English (intermediate level);		  2. Learn English (intermediate level);
+2. Learn English (intermediate level);
 3. Use Google [efficiently](http://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html);
 
 
@@ -42,4 +43,3 @@ Frequently Asked Questions you should ask yourself before asking them again.
 ### Just before a meeting
 1. Make sure your environment works and you can reproduce the problem.
 
-2. [Optional] If it's slow, turn on your PC
