@@ -27,7 +27,7 @@ Frequently Asked Questions you should ask yourself before asking them again.
   * How to find an IRC channel? Google it. (e.g. "android irc channel")
   
 ### When everything above fails
-1. Gather all failed attempts in a small page (txt, rtf, md, etc... not .docx):  for each attempt, you should describe
+1. Gather all failed attempts in a small page (txt, rtf, md, etc... not .docx). For each attempt, you should describe:
  * What you searched for
  * What you found and tried
  * What was the error message when it failed
