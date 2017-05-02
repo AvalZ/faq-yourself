@@ -1,7 +1,6 @@
 # FAQ Yourself
 Frequently Asked Questions you should ask yourself before asking them again.
 
-
 ## Instructions
 
 ### Before studying computer science / information technology
@@ -43,3 +42,6 @@ Frequently Asked Questions you should ask yourself before asking them again.
 ### Just before a meeting
 1. Make sure your environment works and you can reproduce the problem.
 
+## References
+
+[LiveOverflow - How (not) to ask a technical question](https://www.youtube.com/watch?v=53zkBvL4ZB4)
