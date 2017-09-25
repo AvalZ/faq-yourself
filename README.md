@@ -18,7 +18,7 @@ Frequently Asked Questions you should ask yourself before asking them again.
   
 2. Updates the software that gives you troubles to the latest version (unless otherwise noted);
   
-3. Post your problem on [StackOverflow](https://stackoverflow.com/) and interact with it's unkind users;
+3. Post your problem on [StackOverflow](https://stackoverflow.com/) and interact with its unkind users;
 
 4. Post your problem on various dedicated forums;
 * To find a forum use Google (e.g. "android forum")
