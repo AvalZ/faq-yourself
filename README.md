@@ -14,17 +14,19 @@ Frequently Asked Questions you should ask yourself before asking them again.
 
 
 ### Before you ask for a meeting
-1. Google your problem, in English. Keep it simple and gradually add search terms;
+1. Debug your code.
+
+2. Google your problem, in English. Keep it simple and gradually add search terms;
   * If you have a compile error/warning message, google it directly (possibly with quotes)
   
-2. Updates the software that gives you troubles to the latest version (unless otherwise noted);
+3. Updates the software that gives you troubles to the latest version (unless otherwise noted);
   
-3. Post your problem on [StackOverflow](https://stackoverflow.com/) and interact with its unkind users;
+4. Post your problem on [StackOverflow](https://stackoverflow.com/) and interact with its unkind users;
 
-4. Post your problem on various dedicated forums;
+5. Post your problem on various dedicated forums;
 * To find a forum use Google (e.g. "android forum")
   
-5. Ask on various dedicated [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channels;
+6. Ask on various dedicated [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) channels;
   * How to use IRC? Google it
   * How to find an IRC channel? Google it (e.g. "android irc channel")
   
