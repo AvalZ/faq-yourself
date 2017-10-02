@@ -47,6 +47,8 @@ Frequently Asked Questions you should ask yourself before asking them again.
 ### Just before a meeting
 1. Make sure your environment works and you can reproduce the problem.
 2. Switch on the computer
+3. Start your app in a debugging session
+
 
 
 ## References
