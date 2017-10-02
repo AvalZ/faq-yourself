@@ -14,7 +14,6 @@ Frequently Asked Questions you should ask yourself before asking them again.
 
 
 ### Before you ask for a meeting
-![Google Error](https://i.pinimg.com/originals/ee/c6/d4/eec6d4440f6c3a512b301cd56ddbcca3.jpg)
 1. Google your problem, in English. Keep it simple and gradually add search terms;
   * If you have a compile error/warning message, google it directly (possibly with quotes)
   
